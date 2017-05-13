@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit 
+    bootstrap="bootstrap.php"
+    color="true"
+    convertErrorsToExceptions="true"
+    stopOnFailures="false"
+    >
+    <testsuites>
+        <testsuite name="Wordpress Nonce Test">
+            <directory>./tests/</directory>
+        </testsuite>    
+    </testsuites>
+</phpunit>

@@ -1,0 +1,14 @@
+{
+    "name": "flo-32/wpnonce",
+    "description": "use wp_nonce with OO",
+    "authors": [
+        {
+            "name": "Florian Schmidt"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }  
+    }
+}
