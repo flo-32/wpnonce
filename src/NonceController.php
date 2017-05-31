@@ -1,5 +1,7 @@
 <?php
 
+namespace "Flo-32\\Wpnonce";
+
 class NonceController {
 
     private $action = -1;
