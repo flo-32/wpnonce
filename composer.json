@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Flo-32\\Wpnonce" : "src"
+            "Flo-32\\Wpnonce\\" : "src"
         }
     }
 }
